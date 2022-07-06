@@ -1,2 +1,2 @@
-# Maquette_La_Fantaisie
-Travail réalisé lors de mon stage de fin de DUT Informatique, chez IDCOM, réalisé en avril 2022.
+# Maquette pour le restaurant La Fantaisie
+Cette mission confiée portait sur la création de la maquette de la page d’accueil d’un site pour le restaurant La fantaisie, un des clients du Groupe IDCOM.
